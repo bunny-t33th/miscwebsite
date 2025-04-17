@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Page 1</h1>
-    <embed src="https://www.example.com" width="600" height="400">
+    <iframe src="http://www.freeonlinegames.com/embed/145087" width="800" height="500" frameborder="no" scrolling="no"></iframe>
     <br>
     <button onclick="window.location.href='index.html'">Home</button>
 </body>
