@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Page 1</title>
+    <title>Page 2</title>
 </head>
 <body>
-    <h1>Page 1</h1>
-    <iframe src="http://www.freeonlinegames.com/embed/145087" width="800" height="500" frameborder="no" scrolling="no"></iframe>
+    <h1>Page 2</h1>
+    <embed src="https://www.example.com" width="600" height="400">
     <br>
     <button onclick="window.location.href='index.html'">Home</button>
 </body>
